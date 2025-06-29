@@ -1,0 +1,13 @@
+# Ignore temporary Excel files
+~$*.xls*
+*.tmp
+*.bak
+*.log
+*.DS_Store
+Thumbs.db
+
+# Ignore system folders
+__MACOSX/
+.vscode/
+.idea/
+*.swp
