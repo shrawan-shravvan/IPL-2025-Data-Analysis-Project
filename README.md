@@ -57,7 +57,9 @@ This project was created as a portfolio piece to showcase Excel data analysis sk
 
 This project will later be extended using Power Bi. Python and SQL will also be used in the upcoming phases for more advanced querying, visual storytelling, and automation.
 
-##Here are the links to contact me 
+##Here are the links to contact me  
+
 ###gmail-shrawan.2804@gmail.com 
+
 ###linkedin- https://www.linkedin.com/in/shrawan-bora-513922358/ 
 
